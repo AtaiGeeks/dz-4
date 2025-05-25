@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Iron Man",
+    "role": "Тони Старк — гений, миллиардер, супергерой",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg"
+  },
+  {
+    "name": "Spider-Man",
+    "role": "Питер Паркер — герой из Нью-Йорка",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "role": "Т'Чалла — король Ваканды",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
+  }
+]
+

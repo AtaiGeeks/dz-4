@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dusty",
+    "role": "Sniper",
+    "image": "images/dusty.png"
+  },
+  {
+    "name": "Blaze",
+    "role": "Demolition",
+    "image": "images/blaze.png"
+  },
+  {
+    "name": "Shadow",
+    "role": "Infiltrator",
+    "image": "images/shadow.png"
+  }
+]
